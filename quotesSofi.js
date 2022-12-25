@@ -14,7 +14,7 @@ quotes = [
     '“Everything you can imagine is real.”',
     '“Life isnt about finding yourself. Life is about creating yourself.”',
     '“Do what you can, with what you have, where you are.”',
-    '"ak jedna kapitola skoncila, neznamená to, že je koniec.\n Len to, že si vstúpila do novej kapitoly života."',
+    '"ak jedna kapitola skončila, neznamená to, že je koniec.\n Len to, že si vstúpila do novej kapitoly života."',
     '“And, when you want something, all the universe conspires in helping you to achieve it.”',
     '“It’s no use going back to yesterday, because I was a different person then.”',
     '“Do what you feel in your heart to be right – for you’ll be criticized anyway.”',
