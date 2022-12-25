@@ -2,6 +2,8 @@ var quotesSofi = require('./quotesSofi');
 const app = require('express')();
 const cors = require("cors");
 const PORT = process.env.PORT || 8080;
+
+//multiple origins set
 app.use(
     cors({
         origin: "http://127.0.0.1:5500",
