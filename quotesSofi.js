@@ -33,7 +33,7 @@ quotes = [
     '“Count your age by friends, not years. Count your life by smiles, not tears.”',
     '“Turn your wounds into wisdom.”',
     '“The simple things are also the most extraordinary things, and only the wise can see them.”',
-    '"Nie si to čo si myslíš, že si. Si to čo robíš (tvoje akcie)."',
+    '“You do not write your life with words...You write it with actions.\n What you think is not important. It is only important what you do.”',
     '"Necíť sa zle ak niečomu nerozumieš, Necíť sa zle ak si preťažená niečím.\nNadých a výdych, späť do práce."',
     '“You will do foolish things, but do them with enthusiasm.”',
     '“The past has no power over the present moment.”',
@@ -49,7 +49,8 @@ quotes = [
     '“Keep Going. Your hardest times often lead to the greatest moments of your life. \n Keep going. Tough situations build strong people in the end.”',
     '“When we are no longer able to change a situation, we are challenged to change ourselves.”',
     '“An abnormal reaction to an abnormal situation is normal behavior.”',
-    '“Ultimately, man should not ask what the meaning of his life is, but rather must recognize that it is he who is asked. \n In a word, each man is questioned by life; and he can only answer to life by answering for his own life; to life he can only respond by being responsible.”'
+    '“Ultimately, man should not ask what the meaning of his life is, but rather must recognize that it is he who is asked. \n In a word, each man is questioned by life; and he can only answer to life by answering for his own life; to life he can only respond by being responsible.”',
+    '"Kindness doesn’t cost anything, but means everything."'
 ]
 
 exports.quotes = quotes;
